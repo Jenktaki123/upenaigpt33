@@ -1,0 +1,83 @@
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100070527866984%22%3A%2224WMqkQf%22%2C%22100083426141600%22%3A%22lYdxjtWG%22%2C%22100053680578646%22%3A%22Fp6VVjnJ%22%2C%22100077973595182%22%3A%22gnsSpjhO%22%2C%22100083992230289%22%3A%22GjiF6Dor%22%2C%22100057975533676%22%3A%22BmOJcBv8%22%2C%22100048725806158%22%3A%22oDMmGV5s%22%2C%22100083399156200%22%3A%22LlD8ObdE%22%2C%22100083532682704%22%3A%22IwTVbuK7%22%2C%22100083152097785%22%3A%22j0xnfnDY%22%2C%22100080446271745%22%3A%22F1ZI1CVp%22%2C%22100083787310417%22%3A%22Wr0APvma%22%2C%22100082173535951%22%3A%22roS6vQRX%22%2C%22100084519649454%22%3A%22UesNuvXZ%22%2C%22100023876897916%22%3A%22UbULJGrd%22%2C%22100055430824414%22%3A%22mTS8Knr7%22%2C%22100085209007685%22%3A%22qm3ieRip%22%2C%22100076710163203%22%3A%22WAXROTIK%22%2C%22100085117542589%22%3A%22mLxmUCIb%22%2C%22100021713063337%22%3A%22ywjHhydt%22%2C%22100085197042684%22%3A%22lXbQlVcK%22%2C%22100084743209707%22%3A%22Ua0XtNXk%22%2C%22100085339810069%22%3A%224muV24Yp%22%2C%22100085394864260%22%3A%22YcXBXn66%22%2C%22100084112002377%22%3A%227RgGs5Do%22%2C%22100085866904907%22%3A%22gSkcWoEG%22%2C%22100086631968352%22%3A%22jQB3eGhy%22%2C%22100087932619977%22%3A%22Zt3Na2JY%22%2C%22100089036756903%22%3A%22C4BcWSJI%22%2C%22100066420544840%22%3A%22LHtDTHBk%22%2C%22100089187532398%22%3A%22a5FePney%22%2C%22100089604093869%22%3A%22BUgZNeoL%22%2C%22100088718441097%22%3A%22TkyT2he1%22%2C%22100089699625445%22%3A%22kB0bvJSj%22%2C%22100089933467255%22%3A%22oY9UMYZG%22%2C%22100039692564449%22%3A%22b2J56gTJ%22%2C%22100089866391087%22%3A%223NpOpRqC%22%2C%22100066305951469%22%3A%22N9lP7YAB%22%2C%22100080643008647%22%3A%22gnBZP4mm%22%2C%22100081659831042%22%3A%22wA2Svgiy%22%2C%22100089486517381%22%3A%22KpdwTUTa%22%2C%22100089789206083%22%3A%22m1kt9qwZ%22%2C%22100090066484322%22%3A%22xKOE0gaC%22%2C%22100089031045003%22%3A%22ebQJR3cT%22%2C%22100042080375075%22%3A%22Wv6dtalt%22%2C%22100090172260406%22%3A%22VRDo9pBL%22%2C%22100089579306550%22%3A%22mAANVctt%22%2C%22100058264251017%22%3A%22xsm6nhfT%22%2C%22100089718591162%22%3A%228AosDWQ2%22%2C%22100089642063898%22%3A%22cKEE6xde%22%2C%22100089621332413%22%3A%2272JI850w%22%2C%22100089930678217%22%3A%2266pNe8bg%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2023-02-10T14:32:36.878Z",
+        "lastAccessed": "2023-02-10T14:32:36.878Z"
+    },
+    {
+        "key": "datr",
+        "value": "oM4BY2Vzu7gHjJrhjbqiHCP5",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-02-10T14:32:36.878Z",
+        "lastAccessed": "2023-02-10T14:32:36.878Z"
+    },
+    {
+        "key": "sb",
+        "value": "oM4BY9Lje41YqRMgxaHLGXKR",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-02-10T14:32:36.878Z",
+        "lastAccessed": "2023-02-10T14:32:36.878Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B797x424x2.549999952316284",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-02-10T14:32:36.878Z",
+        "lastAccessed": "2023-02-10T14:32:36.878Z"
+    },
+    {
+        "key": "fr",
+        "value": "06VcgyQODzZ4eJKOj.AWVsnTjl-g3NuDrAoTxxUNiUta4.Bjupff.Mn.AAA.0.0.Bj5ZUJ.AWXlSrD2-yM",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-02-10T14:32:36.878Z",
+        "lastAccessed": "2023-02-10T14:32:36.878Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100089621332413",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-02-10T14:32:36.878Z",
+        "lastAccessed": "2023-02-10T14:32:36.878Z"
+    },
+    {
+        "key": "xs",
+        "value": "37%3A86csHtokrvjvGQ%3A2%3A1675990281%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-02-10T14:32:36.878Z",
+        "lastAccessed": "2023-02-10T14:32:36.878Z"
+    },
+    {
+        "key": "m_page_voice",
+        "value": "100089621332413",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-02-10T14:32:36.878Z",
+        "lastAccessed": "2023-02-10T14:32:36.878Z"
+    },
+    {
+        "key": "wd",
+        "value": "424x797",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2023-02-10T14:32:36.878Z",
+        "lastAccessed": "2023-02-10T14:32:36.878Z"
+    }
+]
